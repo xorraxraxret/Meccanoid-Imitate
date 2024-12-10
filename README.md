@@ -29,8 +29,8 @@ Kinect SDK.
 Note: If you are using the Kinect for Windows v2 or Kinect for Xbox One you MUST download the Kinect SDK
 2+. Additionally, the Kinect SDK 2+ only supports Windows 8+.
 
-Download SDK 2.0: ​[https://www.microsoft.com/en-us/download/details.aspx?id=](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
-Download SDK 1.8: ​[https://www.microsoft.com/en-us/download/details.aspx?id=](https://www.microsoft.com/en-us/download/details.aspx?id=40278)
+- [Download SDK 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=44561)
+- [Download SDK 1.8](https://www.microsoft.com/en-us/download/details.aspx?id=40278)
 
 ### Step 2: Install Microsoft Visual Studio
 
